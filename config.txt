@@ -1,0 +1,7 @@
+send to : hasala.dananjaya7@gmail.com
+syslog port : 514
+bined ipaddress : 192.168.1.100
+email port : 465
+sender email : test.openmonitor@gmail.com
+sender pass : tony stark
+smtp server : smtp.gmail.com
